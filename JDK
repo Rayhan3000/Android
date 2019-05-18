@@ -1,0 +1,14 @@
+1.JDK stands for java development kit.
+
+2.It is a software development environment which is used to develop java applications and applets.
+
+3.It includes
+            1.Java runtime environment(JRE).
+            
+            2.an interpreter/loader(java)
+            
+            3.a compiler(javac)
+            
+            4.an archiver(jar)
+            
+            5.a documentation generator(javadoc) and other tools needed for java development
